@@ -35,11 +35,4 @@ $ npm run build  // this will build the server code to es5 js codes and generate
 
 [Create new Issues](https://github.com/amazingandyyy/mern/issues)
 
-## Author
 
-[Tran Toan](https://github.com/htoann)
-
-### License
-
-MIT License
-Copyright (C) 2022 Tran Huu Toan <huutrantoan@gmail.com>
