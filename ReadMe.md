@@ -41,11 +41,4 @@ $ npm run dev   // run it locally
 $ npm run export  // this will build and export to out folder
 ```
 
-## Author
 
-[Tran Toan](https://github.com/2xsolution)
-
-### License
-
-MIT License
-Copyright (C) 2022 @2xSolution <project@2xsolution.com>
