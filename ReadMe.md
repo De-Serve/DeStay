@@ -8,11 +8,6 @@ This means the hotel gets paid a rate they set, and the customer pays 0% hidden 
 booking. Rather, small fees [similar to gas fees] that are 100% transparent would be charged
 by the dApps built using DeServe.
 
-
-Frontend: NEXT.JS
-Backend: Node.JS, Express, Mongodb
-Program: Anchor
-
 ## Usage
 
 ![image](https://user-images.githubusercontent.com/98082850/225080605-720cbb4c-4328-4b28-92ae-d722adc5c584.png)
@@ -51,4 +46,6 @@ $ npm run dev   // run it locally
 $ npm run export  // this will build and export to out folder
 ```
 
-
+Frontend: NEXT.JS
+Backend: Node.JS, Express, Mongodb
+Program: Anchor
