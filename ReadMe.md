@@ -1,4 +1,13 @@
-# Booking Hotel App on Solana blockchain
+# DeStay 
+
+DeStay - Decentralised hotel booking on solana
+
+DeStay eliminates middlemen fees and provides a transparent booking system through smart 
+contracts. Additionally both the costumer and the hotel end up paying 0% fees on bookings. 
+This means the hotel gets paid a rate they set, and the customer pays 0% hidden fees on the 
+booking. Rather, small fees [similar to gas fees] that are 100% transparent would be charged
+by the dApps built using DeServe.
+
 
 Frontend: NEXT.JS
 Backend: Node.JS, Express, Mongodb
@@ -6,7 +15,8 @@ Program: Anchor
 
 ## Usage
 
-Evertbody can list their property and get profit by sol.
+![image](https://user-images.githubusercontent.com/98082850/225080605-720cbb4c-4328-4b28-92ae-d722adc5c584.png)
+
 
 ### Flow
 - Sign up or sign in with mail and password. You need to connect solana wallet.
