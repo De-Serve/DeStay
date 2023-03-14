@@ -12,15 +12,6 @@ run the script at the first level: (You need to add a JWT_SECRET in .env to conn
 $ echo "JWT_SECRET=YOUR_JWT_SECRET" >> src/.env
 ```
 
-### API
-[Booking.postman.json](https://github.com/htoann/BookingHotel/blob/main/server/Booking.postman_collection.json)
-
-Variable
-```
-{{API_ENDPOINT}} : https://bookingapihotel.herokuapp.com/api
-```
-Example get all hotels : https://bookingapihotel.herokuapp.com/api/hotels
-
 ### Start
 
 ```terminal
@@ -31,8 +22,5 @@ $ npm run dev    // run it locally
 $ npm run build  // this will build the server code to es5 js codes and generate a dist file
 ```
 
-## BUGs or comments
-
-[Create new Issues](https://github.com/amazingandyyy/mern/issues)
 
 
